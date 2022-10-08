@@ -3,7 +3,7 @@
   "author": "97323",
   "version": "2.5",
   "description": "2.5: 更新了1个mod 增加了通量网络 再也不用为空间站接线和能量转换烦恼了\n2.4: 更新了一堆mod 增加匠魂·通用机械 更新了星系\n2.3: 更新了一堆mod 优化加载和体验\n2.2: 更新了5个mod 增加了化学模组\n2.1: 更新了1个mod 增加快递模组\n2.0: 更新了6个mod 增加食物模组\n1.9: 更新了2个mod 增加浏览器模组\n1.8: 更新了1个mod 增加炸弹模组\n1.7: 更新了1个mod 新增创世神模组\n1.6: 更新了2个mod 新增箱子模组\n1.5: 更新了1个mod 新增炸弹模组\n1.4: 更新了9个mod 新增星系模组 删除火车模组（模组冲突）\n1.3: 更新了2个mod 新增火车模组 \n1.3以前：更新了大量优化mod（~键可一键挖掘）",
-  "fileApi": "https://github.com/1zyao",
+  "fileApi": "https://raw.kgithub.com/1zyao/up/main",
   "files": [
     {
       "path": "cef.pak",
