@@ -1,9 +1,9 @@
 {
   "name": "客户端2.5(传输更新)",
   "author": "97323",
-  "version": "2.5",
+  "version": "2.5.1",
   "description": "2.5: 更新了1个mod 增加了通量网络 再也不用为空间站接线和能量转换烦恼了\n2.4: 更新了一堆mod 增加匠魂·通用机械 更新了星系\n2.3: 更新了一堆mod 优化加载和体验\n2.2: 更新了5个mod 增加了化学模组\n2.1: 更新了1个mod 增加快递模组\n2.0: 更新了6个mod 增加食物模组\n1.9: 更新了2个mod 增加浏览器模组\n1.8: 更新了1个mod 增加炸弹模组\n1.7: 更新了1个mod 新增创世神模组\n1.6: 更新了2个mod 新增箱子模组\n1.5: 更新了1个mod 新增炸弹模组\n1.4: 更新了9个mod 新增星系模组 删除火车模组（模组冲突）\n1.3: 更新了2个mod 新增火车模组 \n1.3以前：更新了大量优化mod（~键可一键挖掘）",
-  "fileApi": "https://github.com/1zyao",
+  "fileApi": "https://raw.kgithub.com/1zyao/up/main",
   "files": [
     {
       "path": "cef.pak",
@@ -191,7 +191,7 @@
     },
     {
       "path": "config/InvTweaks.cfg",
-      "hash": "313e25f04e57cc8d3f4d09650286ee41a018d359"
+      "hash": "bc941feff85424135bcffd6a3bcb44df0d0f4bf0"
     },
     {
       "path": "config/InvTweaksRules.txt",
@@ -215,7 +215,7 @@
     },
     {
       "path": "config/jei/jei.cfg",
-      "hash": "0ceafcfc178f54bdd3caa33f81d85e500e536b3f"
+      "hash": "e3ed319f8bbd4de50200dd9f95a38b9214bb0618"
     },
     {
       "path": "config/jei/searchColors.cfg",
@@ -350,6 +350,10 @@
       "hash": "9499b67985dcb99668f3c92abc5586719b0ade59"
     },
     {
+      "path": "config/randompatches.cfg",
+      "hash": "f9adcb21a2532db0aca5e102ab6d998b221d2c1f"
+    },
+    {
       "path": "config/reborncore.cfg",
       "hash": "3fa654ea3bfbfd87c8825e578386c51a934bdc2d"
     },
@@ -363,7 +367,7 @@
     },
     {
       "path": "config/splash.properties",
-      "hash": "c86d0a68695c46b982b49b6bab1aa8b352e3fa07"
+      "hash": "0538ae173f503836531354a1ff1953c09ccea60f"
     },
     {
       "path": "config/surge.cfg",
@@ -435,7 +439,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "57a2223180650f054710682bcfc673eab83eaa22"
+      "hash": "d921e66f232b2bd0561235eaec77788254b1b865"
     },
     {
       "path": "config/ZollernGalaxy/core.cfg",
@@ -2514,6 +2518,10 @@
       "hash": "5fed19168bb0090cdccd36d151b3d9d6cba2ffa7"
     },
     {
+      "path": "mods/i18nupdatemod-1.12.2-1.1.0.jar",
+      "hash": "421cb02566dcd495d2c72acec0184dd5ceced5d5"
+    },
+    {
       "path": "mods/implib-0.3.8 1.12.2.jar.disabled",
       "hash": "ef0be8b70243fe83bc4dfa02b774b4fc80e4f620"
     },
@@ -2636,6 +2644,10 @@
     {
       "path": "mods/ProjectE-1.12.2-PE1.4.1.jar",
       "hash": "f10e63fc3c4bf4d34acbfe06a180152dd5d29df1"
+    },
+    {
+      "path": "mods/randompatches-1.12.2-1.22.1.10.jar",
+      "hash": "d45d3cadbbab3f2222059b2acb68d9620c6839a8"
     },
     {
       "path": "mods/spark-forge.jar",
@@ -2772,6 +2784,10 @@
     {
       "path": "replay_recordings/raw/2022_02_11_10_37_58.mcpr",
       "hash": "0b5a125ad6829aad1c33c32aa0078065c82c9df9"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
+      "hash": "9809608667e0dedba740340e959a63f4c21e30f3"
     },
     {
       "path": "resourcepacks/Xray_Ultimate_1.12_v2.3.1.zip",
