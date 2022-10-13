@@ -1,8 +1,8 @@
 {
-  "name": "客户端2.5(传输更新)",
+  "name": "客户端2.6(星空更新)",
   "author": "97323",
-  "version": "2.5.1",
-  "description": "2.5: 更新了1个mod 增加了通量网络 再也不用为空间站接线和能量转换烦恼了\n2.4: 更新了一堆mod 增加匠魂·通用机械 更新了星系\n2.3: 更新了一堆mod 优化加载和体验\n2.2: 更新了5个mod 增加了化学模组\n2.1: 更新了1个mod 增加快递模组\n2.0: 更新了6个mod 增加食物模组\n1.9: 更新了2个mod 增加浏览器模组\n1.8: 更新了1个mod 增加炸弹模组\n1.7: 更新了1个mod 新增创世神模组\n1.6: 更新了2个mod 新增箱子模组\n1.5: 更新了1个mod 新增炸弹模组\n1.4: 更新了9个mod 新增星系模组 删除火车模组（模组冲突）\n1.3: 更新了2个mod 新增火车模组 \n1.3以前：更新了大量优化mod（~键可一键挖掘）",
+  "version": "2.6",
+  "description": "2.6: 更新了几个mod 增加了一点没用的细节\n2.5: 更新了1个mod 增加了通量网络 再也不用为空间站接线和能量转换烦恼了\n2.4: 更新了一堆mod 增加匠魂·通用机械 更新了星系\n2.3: 更新了一堆mod 优化加载和体验\n2.2: 更新了5个mod 增加了化学模组\n2.1: 更新了1个mod 增加快递模组\n2.0: 更新了6个mod 增加食物模组\n1.9: 更新了2个mod 增加浏览器模组\n1.8: 更新了1个mod 增加炸弹模组\n1.7: 更新了1个mod 新增创世神模组\n1.6: 更新了2个mod 新增箱子模组\n1.5: 更新了1个mod 新增炸弹模组\n1.4: 更新了9个mod 新增星系模组 删除火车模组（模组冲突）\n1.3: 更新了2个mod 新增火车模组 \n1.3以前：更新了大量优化mod（~键可一键挖掘）",
   "fileApi": "https://raw.kgithub.com/1zyao/up/main",
   "files": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "path": "config/betterfps.json",
-      "hash": "9e4d44f3695f711034d231109178c159da9bebe3"
+      "hash": "b97d80cd8ef33b6a5fc6e9179a48cc0827bc7b73"
     },
     {
       "path": "config/chesttransporter.cfg",
@@ -127,7 +127,7 @@
     },
     {
       "path": "config/Galacticraft/core.conf",
-      "hash": "a33d6486fc67f520448f125b3f4adae6770c7178"
+      "hash": "c3511ad8bff80e30f03ae140ca2b1237ea0816e8"
     },
     {
       "path": "config/Galacticraft/miccore.conf",
@@ -143,35 +143,35 @@
     },
     {
       "path": "config/GalaxySpace/alpha_centauri/core.conf",
-      "hash": "598dba8ebcadc5c8539b61d946c3cb788decc6f5"
+      "hash": "fe6c8a06617b04de796a59a44770c53adac0c46a"
     },
     {
       "path": "config/GalaxySpace/alpha_centauri/dimensions.conf",
-      "hash": "9a61655edbfdeb3fbd21a2c9cd9f654a94e90cc3"
+      "hash": "34e43d5734132251f084a6712014eea1a83d54bc"
     },
     {
       "path": "config/GalaxySpace/barnards/core.conf",
-      "hash": "c73037cc97895666b2082d57a9bf49e6067779b7"
+      "hash": "bbe046b9ac9e2f029ee09e2f36b3175bb417dd0a"
     },
     {
       "path": "config/GalaxySpace/barnards/dimensions.conf",
-      "hash": "e120d0ebc52aa69ad848854fc9fb2bd692fdb369"
+      "hash": "d40326b2ad29d72ac5e0eabf8608527a3725c831"
     },
     {
       "path": "config/GalaxySpace/core.conf",
-      "hash": "52b108d15da61e9aa649627084a8e2610f50647f"
+      "hash": "43668c773c48e299b442f017cc33dbac674912bc"
     },
     {
       "path": "config/GalaxySpace/dimensions.conf",
-      "hash": "60e66ee7ba7d23caeae102ef4ea0d7db242d081a"
+      "hash": "957d2c471c0690fae27c4de3ddb99984796a38f4"
     },
     {
       "path": "config/GalaxySpace/energy.conf",
-      "hash": "a315519466d68643280edfe318a62a2879678415"
+      "hash": "18de6ce7fced5e6fc993b999899f3aa8f29b39d1"
     },
     {
       "path": "config/GalaxySpace/schematics.conf",
-      "hash": "88da1721a0a18ba552c4ce2bacb232f3e31dcf63"
+      "hash": "0bcec1b443d2c23e30f6e2fcf5160f264c5bbea1"
     },
     {
       "path": "config/GalaxySpace/tau_ceti/core.conf",
@@ -186,12 +186,16 @@
       "hash": "38272d93d687429b68e932f0054856bfbc069f86"
     },
     {
+      "path": "config/ias.json",
+      "hash": "7f09938e8d5a35607be3ef436a1a76dccc5e12f1"
+    },
+    {
       "path": "config/inventoryhud.cfg",
       "hash": "2fb18a8e52fafadd25a79b34c28f9dc9ccbe54e4"
     },
     {
       "path": "config/InvTweaks.cfg",
-      "hash": "bc941feff85424135bcffd6a3bcb44df0d0f4bf0"
+      "hash": "28eb8f72a9b5d7d484aecb81241ed49336dc96ef"
     },
     {
       "path": "config/InvTweaksRules.txt",
@@ -242,6 +246,14 @@
       "hash": "bdd9e5fb4bea64d58ee783dde699137f7486fd07"
     },
     {
+      "path": "config/loliasm/methods-stable_39.csv",
+      "hash": "e5548a1760755f2b2bfd22c0395e92ce26e63380"
+    },
+    {
+      "path": "config/loliasm.cfg",
+      "hash": "026ab9cf869845511206be2e122e3528e19a6f62"
+    },
+    {
       "path": "config/mapwriter.cfg",
       "hash": "b06f5e167e5eb0b51526a2a373765d34ff3a69ec"
     },
@@ -263,7 +275,11 @@
     },
     {
       "path": "config/MorePlanets.cfg",
-      "hash": "4b84cccaa4be7b0fb6c07035d89f019f0750d9b9"
+      "hash": "04b3058740787c962db1598fd65a2185634118e5"
+    },
+    {
+      "path": "config/multimine.cfg",
+      "hash": "d64475070785d618d6620be148f635492880edab"
     },
     {
       "path": "config/oreexcavation.cfg",
@@ -367,7 +383,11 @@
     },
     {
       "path": "config/splash.properties",
-      "hash": "0538ae173f503836531354a1ff1953c09ccea60f"
+      "hash": "9bda0c173c088c617f493084de7fd38a76beaa57"
+    },
+    {
+      "path": "config/stevekung\u0027s_lib.cfg",
+      "hash": "a5012acbd6785690cc2a5b1bcd60b708f1b2d878"
     },
     {
       "path": "config/surge.cfg",
@@ -439,7 +459,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "d921e66f232b2bd0561235eaec77788254b1b865"
+      "hash": "1d22541aa40905052d02ec056e3caea0b61e4bed"
     },
     {
       "path": "config/ZollernGalaxy/core.cfg",
@@ -2390,6 +2410,10 @@
       "hash": "4008fbacc40bf4c4dd8089985af5ccdc8cbf5ab8"
     },
     {
+      "path": "mods/!mixinbooter-4.2.jar",
+      "hash": "3f5e8b09369f7fdce9436eb6ac729d11194c1d13"
+    },
+    {
       "path": "mods/1.12.2/chunkgenlimiter-1.1-core.jar",
       "hash": "da4bb801b56bc75f34fa01ae7ef8d7e170e8dbb1"
     },
@@ -2414,8 +2438,8 @@
       "hash": "01598e1bdd7e4851bab5193537011853652f08f0"
     },
     {
-      "path": "mods/AsmodeusCore-1.12.2-0.0.28.jar",
-      "hash": "425cb220008a93f7443664186789af4a12b94718"
+      "path": "mods/AsmodeusCore-1.12.2-0.0.31.jar",
+      "hash": "6f108df1a21ed39afd3cc85f8372820596624e78"
     },
     {
       "path": "mods/auxiliumequivalence-1.12.2-1.3.2.jar",
@@ -2470,10 +2494,6 @@
       "hash": "a1bd44b5e82ce70dc4a883ef1ab150e5e8e8d8b2"
     },
     {
-      "path": "mods/fancymenu_2.2.1_MC_1.12-1.12.2.jar.disabled",
-      "hash": "bd5f1c9ec4fa5ea61420decb282b6b30f607e12c"
-    },
-    {
       "path": "mods/FastFurnace-1.12.2-1.3.1.jar",
       "hash": "3091f2d5cb91c384b39729102e30abbda909b880"
     },
@@ -2506,24 +2526,20 @@
       "hash": "831190874b02d56321ef23bc5a451f2109b95dec"
     },
     {
-      "path": "mods/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-      "hash": "327c7efe184f43b091788e15cbbee5409fabf79b"
+      "path": "mods/Galacticraft-1.12.2-4.0.3.jar",
+      "hash": "b81bc951f58236a7f9b0e80d1ce2f355e6807d5f"
     },
     {
-      "path": "mods/GalacticraftCore-1.12.2-4.0.2.280.jar",
-      "hash": "7e15210ac47a4c96454fe664bc927ce3b95097dd"
-    },
-    {
-      "path": "mods/GalaxySpace-1.12.2-2.0.17.jar",
-      "hash": "5fed19168bb0090cdccd36d151b3d9d6cba2ffa7"
+      "path": "mods/GalaxySpace-1.12.2-2.0.19.jar",
+      "hash": "50accb416b18d8935989e28cda0849080fdccc6a"
     },
     {
       "path": "mods/i18nupdatemod-1.12.2-1.1.0.jar",
       "hash": "421cb02566dcd495d2c72acec0184dd5ceced5d5"
     },
     {
-      "path": "mods/implib-0.3.8 1.12.2.jar.disabled",
-      "hash": "ef0be8b70243fe83bc4dfa02b774b4fc80e4f620"
+      "path": "mods/InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
+      "hash": "c712f45e6538fdd06ecc0c0147a071281664dc0f"
     },
     {
       "path": "mods/InputMethodBlocker-1.11-1.12.2-2.2-SNAPSHOT.jar",
@@ -2558,16 +2574,12 @@
       "hash": "2afe8181d301fefffad17b06ef54b79ad8158a40"
     },
     {
-      "path": "mods/latiaocraft-LTC-4.3.jar.disabled",
-      "hash": "47b8c6103b3ed4b255c9908135dc5ade2e4f13b7"
-    },
-    {
-      "path": "mods/lesslag-1.0-1.12.2.jar.disabled",
-      "hash": "24cdec53d82b5afdb78f1ca6db8e2341830caeff"
-    },
-    {
       "path": "mods/loadedmodsexporter-1.12.2-1.0.jar",
       "hash": "08b490a16f624e9ce9bdb22d9e2ddc2a18903c3c"
+    },
+    {
+      "path": "mods/loliasm-5.6.jar",
+      "hash": "47811ff3df2a56435e9518bd62a0eb5d92ea4f40"
     },
     {
       "path": "mods/Mantle-1.12-1.3.3.49.jar",
@@ -2590,16 +2602,16 @@
       "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481"
     },
     {
-      "path": "mods/MicdoodleCore-1.12.2-4.0.2.280.jar",
-      "hash": "906b6088c54a428d7a383796e7b77283cca7e573"
-    },
-    {
       "path": "mods/MJRLegendsLib-1.12.2-1.2.1.jar",
       "hash": "f1ffc295eaf2e22e24673946e46219d4bb4b39b9"
     },
     {
-      "path": "mods/More-Planets-1.12.2-2.0.22-GC238.jar",
-      "hash": "2674f590987008ef2d59a6cda6da0628f74df42c"
+      "path": "mods/More-Planets-1.12.2-2.2.4-GC284.jar",
+      "hash": "4adeb26228d10e90546409b829ea28f5db91ef5a"
+    },
+    {
+      "path": "mods/MultiMine-1.12.2.jar",
+      "hash": "d817a648e3d4f26d2b281824a5a9a243da68c0e4"
     },
     {
       "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
@@ -2650,8 +2662,12 @@
       "hash": "d45d3cadbbab3f2222059b2acb68d9620c6839a8"
     },
     {
-      "path": "mods/spark-forge.jar",
-      "hash": "1b0f0591b5eb4e688ebb3f0ecf41858688b033fb"
+      "path": "mods/spark-forge1122.jar",
+      "hash": "6ea08fc3f82535f37a76f2e7340d239e64e40489"
+    },
+    {
+      "path": "mods/SteveKunG\u0027s-Lib-1.12.2-1.2.0.jar",
+      "hash": "c20cfaa084aa31ae44abff31b6748e86b0546420"
     },
     {
       "path": "mods/Surge-1.12.2-2.0.79.jar",
@@ -2660,10 +2676,6 @@
     {
       "path": "mods/TConstruct-1.12.2-2.13.0.183.jar",
       "hash": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f"
-    },
-    {
-      "path": "mods/TexFix+V-1.12-4.0.jar",
-      "hash": "aa3ea97bdad05ac3c7b1d53b91ed71188e0b20b2"
     },
     {
       "path": "mods/TickDynamic-1.12.2-1.0.2.jar",
@@ -2680,10 +2692,6 @@
     {
       "path": "mods/unloader-1.2.0 1.12.2.jar",
       "hash": "6c615f6bd2dcd9ad30cb69422fd3241ee6f45816"
-    },
-    {
-      "path": "mods/VanillaFix-1.0.10-150.jar",
-      "hash": "646fc28aa81773662e33a3b447e830b816528fc9"
     },
     {
       "path": "mods/vanillafoodpantry-mc1.12.2-4.3.1.jar",
@@ -2759,7 +2767,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "cf743a31f82eb51cc171e825cfffbd3a2e7e148f"
+      "hash": "cb2f47b22253b1ab65d6f241fd1741c1954ec162"
     },
     {
       "path": "optionsof.txt",
@@ -2832,6 +2840,50 @@
     {
       "path": "wd_keyboard_warning.txt",
       "hash": "2af10c60f4bd78faadc12009e4ac30348625f036"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f"
+    },
+    {
+      "path": "客户端2.5(传输更新)-natives/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1"
     }
   ],
   "addons": [
